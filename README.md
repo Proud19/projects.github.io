@@ -1,8 +1,5 @@
-<img src="https://github.com/user-attachments/assets/e9e5853b-4a11-4627-8f76-e925bc1644f9" width="300px">
-
-Hello, my name is **Proud Mpala**. I am a Computer Science student at Stanford University, specializing in **Compilers and AI**. My academic journey is driven by a deep interest in **systems, compilers, and machine learning**.
-
-
+| <img src="https://github.com/user-attachments/assets/e9e5853b-4a11-4627-8f76-e925bc1644f9" width="500"> | Hello, my name is Proud Mpala. <br> I am a Computer Science student at Stanford University, specializing in Compilers and AI. My academic journey is driven by a deep interest in systems, compilers, and machine learning. |
+|--------------------------------|--------------------------------|
 
 
 
@@ -18,12 +15,12 @@ Working on Computer Systems was most eye opening and yet rewarding experience. T
 
 
 ### AI and ML projects 
-Building and learning about AI systems gave me an understanding of the recent applications of computation and mathematics. I worked on building [an AI for one of friends' favorite activities](projects/geoguessrai.md), GeoGuessr. With the advent of language models, I decided to learn a little bit about them and ended up contributing to [optimization techniques for Language Models](projects/minbert.md). I found it also important to understand the harms associated with AI and ML models. This culminated in exploring potential harm in [using AI for hiring procedures](projects/algorithmic-fairness.md) as well as [analyzing the alignment of Large Language Models through Knowledge Graphs](llm-through-kg.md). 
+Building and learning about AI systems gave me an understanding of the recent applications of computation and mathematics. I worked on building [an AI for one of friends' favorite activities](projects/geoguessrai.md), GeoGuessr as well as various [AI agents for Catan](projects/catan.md) based on Deep Learning and Reinforcement Learning techniques respectively. With the advent of language models, I decided to learn a little bit about them and ended up contributing to [optimization techniques for Language Models](projects/minbert.md). I found it also important to understand the harms associated with AI and ML models. This culminated in exploring potential harm in [using AI for hiring procedures](projects/algorithmic-fairness.md) as well as [analyzing the alignment of Large Language Models through Knowledge Graphs](llm-through-kg.md). 
 
 ### Mobile Apps and Web Design 
-CS 148 final p, 
+I have some experience building user facing applications. For my senior project, we made a travel companion iOS app, [TripSage](tripsage.md). I have also worked on a [photosharing web application](photoapp.md) as well as a [Blockchain based web application](greenwise.md) as part of a hackathon in San Francisco. 
 
-### Graphics and Animation
+### Graphics and Animation and Visual Modelling 
 
 
 ## 📝 Research & Publications  
