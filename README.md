@@ -1,6 +1,9 @@
-# 👋 Hello,
+<div style="display: flex; align-items: center;">
+  <img src="your-image-url.jpg" width="150" style="border-radius: 10px; margin-right: 20px;">
+  <p>Computer Science student at Stanford University, specializing in Compilers and Artificial Intelligence. My academic journey has been driven by a deep interest in systems, compilers, and machine learning.</p>
+</div>
 
-Computer Science student at Stanford University, specializing in Compilers and Artificial Intelligence. My academic journey has been driven by a deep interest in systems, compilers, and machine learning.
+
 
 ## 📚 Education  
 - **Stanford University** (B.S in Computer Science, [Systems Track](https://www.cs.stanford.edu/bachelors-compsci-tracks-overview))
