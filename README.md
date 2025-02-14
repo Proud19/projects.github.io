@@ -1,7 +1,8 @@
 <div style="display: flex; align-items: center;">
-  <img src="your-image-url.jpg" width="150" style="border-radius: 10px; margin-right: 20px;">
+  <img src="[your-image-url.jpg](https://github.com/user-attachments/assets/e9e5853b-4a11-4627-8f76-e925bc1644f9)" width="150" style="border-radius: 10px; margin-right: 20px;">
   <p>Computer Science student at Stanford University, specializing in Compilers and Artificial Intelligence. My academic journey has been driven by a deep interest in systems, compilers, and machine learning.</p>
 </div>
+
 
 
 
