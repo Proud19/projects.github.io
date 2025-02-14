@@ -14,10 +14,12 @@ Working on Computer Systems was most eye opening and yet rewarding experience. T
 
 
 ### AI and ML projects 
-Building and learning about AI systems gave me an understanding of the recent applications of computation and mathematics. I worked on building [an AI for one of friends' most favorite activities](projects/geoguessrai.md), GeoGuessr. 
-- [More projects →](projects.md)
+Building and learning about AI systems gave me an understanding of the recent applications of computation and mathematics. I worked on building [an AI for one of friends' favorite activities](projects/geoguessrai.md), GeoGuessr. With the advent of language models, I decided to learn a little bit about them and ended up contributing to [optimization techniques for Language Models](projects/minbert.md). I found it also important to understand the harms associated with AI and ML models. This culminated in exploring potential harm in [using AI for hiring procedures](projects/algorithmic-fairness.md) as well as [analyzing the alignment of Large Language Models through Knowledge Graphs](llm-through-kg.md). 
 
-### Design and Modeling 
+### Mobile Apps and Web Design 
+CS 148 final p, 
+
+### Graphics and Animation
 
 
 ## 📝 Research & Publications  
