@@ -14,7 +14,7 @@ Working on Computer Systems was most eye opening and yet rewarding experience. T
 
 
 ### AI and ML projects 
-Building and learning about AI systems gave me an understanding of the recent applications of computation and mathematics. I worked on building [an AI for one of friends' most favorite activities] (projects/geoguessrai.md), GeoGuessr. 
+Building and learning about AI systems gave me an understanding of the recent applications of computation and mathematics. I worked on building [an AI for one of friends' most favorite activities](projects/geoguessrai.md), GeoGuessr. 
 - [More projects →](projects.md)
 
 ### Design and Modeling 
