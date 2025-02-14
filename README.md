@@ -10,12 +10,15 @@ Computer Science student at Stanford University, specializing in Compilers and A
 ## 🏗️ Projects  
 I’ve worked on a range of projects in **systems programming, AI, networking, iOS, and WebApps**. 
 ### Systems Projects 
-Working on Computer Systems was most eye opening and yet rewarding experience. The first major system I worked on was [**Cool Compiler**](projects/cool-compiler.md) there by gaining understanding on how computers translate human readable code into machine code. I next worked on [**PintOS**](projects/cool-compiler.md) which gave me an indepth experience on building threads, virtual memory, filesystem and see it all come together. I also had the pleasure of imiplemeting the [**TCP/IP Stack**](projects/tcp-ip-stack.md) to understand how computing devices talk to each other over networks. We all do get that adrenaline rush when things go fast right, I think computers do to; I worked on making things go super fast on computers using by exploiting GPUs. Most notably [**Cuda Renderer**]() for fast drawing of graphics using GPU.
+Working on Computer Systems was most eye opening and yet rewarding experience. The first major system I worked on was [**Cool Compiler**](projects/cool-compiler.md) there by gaining understanding on how computers translate human readable code into machine code. I next worked on [**PintOS**](projects/cool-compiler.md) which gave me an indepth experience on building threads, virtual memory, filesystem and see it all come together. I also had the pleasure of imiplemeting the [**TCP/IP Stack**](projects/tcp-ip-stack.md) to understand how computing devices talk to each other over networks. We all do get that adrenaline rush when things go fast right, I think computers do to; I worked on making things go super fast on computers using by exploiting GPUs. Most notably [**Cuda Renderer**](projects/cuda-renderer.md) for fast drawing of graphics using GPU.
 
 
 ### AI and ML projects 
-Building and learning about AI systems gave me an understanding of the recent applications of computation and mathematics. I worked on building an AI for one of friends' most favorite activities [**GeoguessrAI**](projects/geoguessrai.md)
-- [More projects →](projects.md)  
+Building and learning about AI systems gave me an understanding of the recent applications of computation and mathematics. I worked on building [an AI for one of friends' most favorite activities] (projects/geoguessrai.md), GeoGuessr. 
+- [More projects →](projects.md)
+
+### Design and Modeling 
+
 
 ## 📝 Research & Publications  
 I have contributed to research on **LLM safety, adversarial optimization, and knowledge graphs**.  
