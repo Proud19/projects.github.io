@@ -1,5 +1,6 @@
-| <img src="https://github.com/user-attachments/assets/e9e5853b-4a11-4627-8f76-e925bc1644f9" width="300px"> | Hello, my name is Proud Mpala. <br> I am a Computer Science student at Stanford University, specializing in Compilers and AI. My academic journey is driven by a deep interest in systems, compilers, and machine learning. |
-|--------------------------------|--------------------------------|
+<img src="https://github.com/user-attachments/assets/e9e5853b-4a11-4627-8f76-e925bc1644f9" width="300px" style="float: left; margin-right: 20px; border-radius: 10px;">
+
+Hello, my name is **Proud Mpala**. I am a Computer Science student at Stanford University, specializing in **Compilers and AI**. My academic journey is driven by a deep interest in **systems, compilers, and machine learning**.
 
 
 
