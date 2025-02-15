@@ -29,8 +29,8 @@ I have contributed to research on **LLM safety, LLM training optimization, and k
 
 ## 🎓 Teaching & Leadership  
 I serve as a **Teaching Assistant & Course Assistant** for Stanford’s core CS courses:  
-- [CS106A/B](teaching/cs106.md) 
-- [CS111](teaching/cs111.md) 
-- [CS198B](teaching/cs198b.md) 
+- [CS106A](https://web.stanford.edu/class/cs106a/) and [CS106B](https://web.stanford.edu/class/cs106b/) 
+- [CS111](https://web.stanford.edu/class/cs111/) 
+- [CS198B](https://cs198.stanford.edu/cs198/) 
 
 🚀 Feel free to explore my work!  
