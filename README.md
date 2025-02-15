@@ -27,10 +27,4 @@ I have contributed to research on **LLM safety, LLM training optimization, and k
 - [**KGGen: Extracting Knowledge Graphs from Plain Text with Language Models**](publications/model-safety.md) 
 
 
-## 🎓 Teaching & Leadership  
-I serve as a **Teaching Assistant & Course Assistant** for Stanford’s core CS courses:  
-- [CS106A](https://web.stanford.edu/class/cs106a/) and [CS106B](https://web.stanford.edu/class/cs106b/) 
-- [CS111](https://web.stanford.edu/class/cs111/) 
-- [CS198B](https://cs198.stanford.edu/cs198/) 
-
 🚀 Feel free to explore my work!  
