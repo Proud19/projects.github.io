@@ -1,12 +1,9 @@
 | <img src="https://github.com/user-attachments/assets/e9e5853b-4a11-4627-8f76-e925bc1644f9" width="600"> | Hello, my name is Proud Mpala. <br> I am a Computer Science student at Stanford University, specializing in Compilers and AI. My academic journey is driven by a deep interest in computer systems and machine learning. | 
 |--------------------------------|--------------------------------|
 
-
-
 ## 📚 Education  
 - **Stanford University** (B.S in Computer Science, [Systems Track](https://www.cs.stanford.edu/bachelors-compsci-tracks-overview))
 - **Stanford University** (M.S. in Computer Science, [AI Track](https://www.cs.stanford.edu/masters-specializations/ms-program-sheets))  
-
 
 ## 🏗️ Projects  
 I’ve worked on a range of projects in **computer systems programming, AI, networking, iOS, and WebApps**. 
@@ -21,10 +18,5 @@ I have some experience designing and building user facing applications. For my s
 
 ### Graphics, Animation and Visual Modelling 
 Digital media is a very fun field to explore and I have had the opportunity to express some of my ideas in that regard. I had the pleasure of making [an animated video](projects/artstudi.md) using a blend of physical and digital tools. One of my favorite projects was using ray tracing techniques and blender to come up with [an awesome ochestra room](projects/graphics.md). 
-
-## 📝 Research & Publications  
-I have contributed to research on **LLM safety, LLM training optimization, and knowledge graphs extraction**.  
-- [**KGGen: Extracting Knowledge Graphs from Plain Text with Language Models**](publications/model-safety.md) 
-
 
 🚀 Feel free to explore my work!  
