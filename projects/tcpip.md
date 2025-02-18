@@ -52,3 +52,6 @@ This project involved the collaborative development of a functional **TCP/IP sta
 - Demonstrated the ability to reliably transfer data between two machines, with handling for out-of-order packets, retransmissions, and error detection.
 - A solid understanding of how the TCP and IP protocols work together to ensure reliable communication over potentially unreliable networks.
 
+## References 
+- [CS144 Stanford University](https://cs144.github.io/)
+
