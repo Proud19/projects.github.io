@@ -88,7 +88,7 @@ We are proud of the work done and look forward to further exploring compiler des
 ---
 
 **Authors:**
-- [Proud Mpala]
+- Proud Mpala
 - [Ritvik Sharma](https://github.com/Ritvik1sharma)
 
 **Stanford University, CS 143 - Compilers**
