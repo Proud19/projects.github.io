@@ -1,5 +1,7 @@
 # Cool Compiler (CS 143 - Compilers)
-This is a description of a Cool compiler project done as part of CS 143 (Compilers) at Stanford University. The compiler consists of several stages: lexical analysis, syntax analysis, semantic analysis, and code generation. The final output is MIPS assembly code that implements the given Cool program. This project was completed by [Your Name] and [Partner's Name] (if applicable).
+This is a description of a Cool compiler project done as part of CS 143 (Compilers) at Stanford University. The compiler consists of several stages: lexical analysis, syntax analysis, semantic analysis, and code generation. The final output is MIPS assembly code that implements the given Cool program. 
+
+**NB: The repository for this project is private as per the Stanford University requirements as it contains potential solutions to assignments**
 
 ## Table of Contents
 1. [Overview](#overview)
