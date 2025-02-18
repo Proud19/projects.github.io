@@ -6,17 +6,24 @@
 - **Stanford University** (M.S. in Computer Science, [AI Track](https://www.cs.stanford.edu/masters-specializations/ms-program-sheets))  
 
 ## 🏗️ Projects  
-I’ve worked on a range of projects in **computer systems programming, AI, networking, iOS, and WebApps**. 
-### Systems Projects 
-Working on Computer Systems was most eye opening and yet rewarding experience. The first major system I worked on was [Cool Compiler](projects/cool-compiler.md) there by gaining understanding on how computers translate human readable code into machine code. I next worked on [PintOS](projects/cool-compiler.md) which gave me an indepth experience on building threads, virtual memory, filesystem and see it all come together. I also had the pleasure of imiplemeting the [TCP/IP Stack](projects/tcp-ip-stack.md) to understand how computing devices talk to each other over networks. We all do get that adrenaline rush when things go fast right, I think computers do to; I worked on making things go super fast on computers using by exploiting GPUs. Most notably [Cuda Renderer](projects/cuda-renderer.md) for fast drawing of graphics using GPU.
+I have worked on a diverse range of projects spanning **computer systems programming, AI, networking, iOS development, and web applications**.
 
-### AI and ML projects 
-Building and learning about AI systems gave me an understanding of the recent applications of computation and mathematics. I worked on building [an AI for one of friends' favorite activities](projects/geoguessrai.md), GeoGuessr as well as various [AI agents for Catan](projects/catan.md) based on Deep Learning and Reinforcement Learning techniques respectively. With the advent of language models, I decided to learn a little bit about them and ended up contributing to [optimization techniques for Language Models](projects/minbert.md) as well as using LLMs to build [an agent that simulates user interactions in websites](https://github.com/Proud19/codeXwebagent) as part of a hackathon. I found it also important to understand the harms associated with AI and ML models. This culminated in exploring potential harm in [using AI for hiring procedures](projects/algorithmic-fairness.md) as well as [analyzing the alignment of Large Language Models through Knowledge Graphs](llm-through-kg.md). 
+### 🔧 Systems Projects  
+My journey into computer systems has been both eye-opening and rewarding. My first deep dive into systems programming was through the [Cool Compiler](projects/cool-compiler.md), where I learned how computers translate human-readable code into machine-executable instructions. This was followed by an intensive experience working on [PintOS](projects/pintos.md), which provided hands-on exposure to **threads, virtual memory, and file systems**, allowing me to see how low-level components come together to form an operating system. 
 
-### Mobile Apps and Web Design 
-I have some experience designing and building user facing applications. For my senior project, we made a travel companion iOS app, [TripSage](tripsage.md). I have also worked on a [photosharing web application](photoapp.md) as well as a [Blockchain based web application](greenwise.md) as part of a hackathon in San Francisco. 
+I further explored networking by implementing a [TCP/IP Stack](projects/tcp-ip-stack.md), which deepened my understanding of how devices communicate over networks. Seeking performance optimizations, I ventured into **parallel computing**, developing a **high-performance CUDA-based renderer**. The [CUDA Renderer](projects/cuda-renderer.md) was particularly exciting, as it leveraged GPUs to accelerate graphics rendering, pushing computational speed to its limits.
 
-### Graphics, Animation and Visual Modelling 
-Digital media is a very fun field to explore and I have had the opportunity to express some of my ideas in that regard. I had the pleasure of making [an animated video](projects/artstudi.md) using a blend of physical and digital tools. One of my favorite projects was using ray tracing techniques and blender to come up with [an awesome ochestra room](projects/graphics.md). 
+### 🤖 AI and ML Projects  
+Building AI systems has given me a strong appreciation for the applications of computation and mathematics. One of my favorite projects was designing [an AI for GeoGuessr](projects/geoguessrai.md), one of my friend’s favorite games, using deep learning. I also built **AI agents for Catan**, applying both **deep learning** and **reinforcement learning** techniques ([Catan AI](projects/catan.md)).
 
-🚀 Feel free to explore my work!  
+With the rise of **large language models**, I became curious about their optimization and real-world deployment. I contributed to research on **optimizing language models** ([MinBERT](projects/minbert.md)) and worked on [simulating user interactions on websites](https://github.com/Proud19/codeXwebagent) using LLMs in a hackathon project. Understanding the **ethical challenges of AI** is just as important as its capabilities, which led me to explore the **biases in AI hiring procedures** ([Algorithmic Fairness](projects/algorithmic-fairness.md)) and the **alignment of Large Language Models (LLMs) using Knowledge Graphs** ([LLM Alignment](projects/llm-through-kg.md)).
+
+### 📱 Mobile Apps and Web Development  
+I enjoy building user-facing applications that blend design and functionality. For my **senior project**, my team developed **[TripSage](tripsage.md)**, a travel companion iOS app designed to provide location-based recommendations. In addition, I worked on a **photo-sharing web application** ([PhotoApp](photoapp.md)) and a **blockchain-based sustainability platform** ([GreenWise](greenwise.md)), the latter of which was developed for a **hackathon in San Francisco**.
+
+### 🎨 Graphics, Animation, and Visual Modeling  
+Exploring digital media has been an exciting way to combine creativity with technical problem-solving. I created an [animated short film](projects/artstudi.md) using a blend of physical and digital tools, experimenting with **procedural animation** techniques. One of my favorite projects was designing an **orchestra room** using **ray tracing and Blender** ([Orchestra Room](projects/graphics.md)), leveraging **computer graphics principles** to achieve photorealistic rendering.
+
+### 🔬 Research Contributions  
+- **[KGGen: Extracting Knowledge Graphs from Plain Text with Language Models](https://arxiv.org/abs/2502.09956)** – A research paper on leveraging LLMs for knowledge graph generation.
+
