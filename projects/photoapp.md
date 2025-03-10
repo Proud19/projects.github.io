@@ -2,6 +2,7 @@
 
 ## Overview
 This project is a full-stack web application that allows users to share photos, leave comments, and manage user sessions. Initially developed as a simple photo display app, it was extended to include user authentication, session management, commenting, and photo uploading. The application follows a Model-View-Controller (MVC) architecture and is built using Node.js, Express, MongoDB, and React.
+[Project Demo](https://www.youtube.com/watch?v=5NXo13-klLA&ab_channel=pm)
 
 ## Features and Achievements
 - **User Authentication & Session Management**
